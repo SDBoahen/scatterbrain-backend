@@ -1,0 +1,2 @@
+class DashNote < ApplicationRecord
+end
